@@ -5,6 +5,8 @@
 
 ![PauloHDCouto GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloHDCouto&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDCouto&layout=compact)
+
 ## Tecnologias que eu uso no meu dia a dia.
 
 <div style="display: inline_block"><br/>
